@@ -17,3 +17,5 @@
 
 * `git checkout <branch_name>` Switch to existed branch
 * `git checkout -b <branch_name>` Switch to new branch
+
+* `git clone` Clone a repository into a new directory.
