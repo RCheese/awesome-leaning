@@ -1,5 +1,4 @@
-# Hot keys
-
+Hot keys
 ---
 
 ### General

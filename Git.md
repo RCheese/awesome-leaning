@@ -1,5 +1,4 @@
-# The GIT - Version Control System
-
+The GIT - Version Control System
 ---
 
 
