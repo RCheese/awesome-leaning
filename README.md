@@ -6,3 +6,6 @@ AWESOME LEARNING
 ___
 
 [Hot keys](HotKeys.md)
+[Git](Git.md)
+[Terminal](Terminal.md)
+[Markdown](Markdown.md)
