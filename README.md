@@ -5,4 +5,4 @@ AWESOME LEARNING
 
 ___
 
-[Hot keys](file:///HotKeys.md)
+[Hot keys](HotKeys.md)
