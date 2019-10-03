@@ -13,6 +13,7 @@ ___
 ### PyCharm
 * `Ctrl + (Ctrl+↑)` Multicursor Up
 * `Ctrl + (Ctrl+↓)` Multicursor Down
+* `Alt + Enter` Show Intention Action 
 ___
 
 ### Vim
