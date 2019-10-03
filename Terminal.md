@@ -8,3 +8,4 @@ STD Unix Terminal
     * `cd ~` Got to home
 * `pwd` Path of working directory
 * `echo` Say
+* `whereis [*file name*]` Used to find the path  binary /executable files, source files and man page files
